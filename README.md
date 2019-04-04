@@ -1,3 +1,4 @@
+This code is modified from (https://github.com/sunsided/viola-jones-adaboost/blob/master/viola-jones.ipynb)
 # ECEN 649 pattern recognition class project
 
 ## Implement Viola and Jones face detection algorithm
